@@ -2,7 +2,7 @@
 //  SANSpeechRecognition.swift
 //  HueBase
 //
-//  Created by 花形春輝 on 2021/03/23.
+//  Created by 春蔵 on 2021/03/23.
 //
 import Foundation
 import AVFoundation

@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  SpeechRecognitionSample
 //
-//  Created by 花形春輝 on 2023/01/12.
+//  Created by 春蔵 on 2023/01/12.
 //
 
 import SwiftUI
